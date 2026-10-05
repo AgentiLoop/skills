@@ -7,7 +7,7 @@
 ```bash
 npx skills add AgentiLoop/skills            # pick skills interactively
 npx skills add AgentiLoop/skills --all      # install every skill for every detected agent
-npx skills add qrcode.pub                   # same skills via /.well-known/agent-skills
+npx skills add https://qrcode.pub           # same skills via /.well-known/agent-skills
 ```
 
 | Skill | What it teaches the agent |
