@@ -1,5 +1,8 @@
 # AgentiLoop skills
 
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
+
 [Agent Skills](https://agentskills.io) for AI coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, …), built around [qrcode.pub](https://qrcode.pub/?ref=skills).
 
 [![skills.sh](https://skills.sh/b/AgentiLoop/skills)](https://skills.sh/AgentiLoop/skills)
